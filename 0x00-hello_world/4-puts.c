@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - Hello, puts
+ * main - Print prograimming is like building a multilingual puzzle
  * Return: 0 (Success)
  */
 int main(void)
